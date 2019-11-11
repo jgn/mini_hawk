@@ -2,7 +2,6 @@ require 'securerandom'
 require 'base64'
 require 'openssl'
 require 'uri'
-require 'pry'
 
 module MiniHawk
   class Client

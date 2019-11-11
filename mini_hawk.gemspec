@@ -20,5 +20,4 @@ Gem::Specification.new do |s|
   s.add_dependency 'hashie',                  '~> 3.6.0'
 
   s.add_development_dependency 'rspec',       '~> 3.9.0'
-  s.add_development_dependency 'pry',         '~> 0.12.2'
 end
